@@ -50,13 +50,6 @@ The **ER Diagram** represents all entities and relationships among them.
 
 ---
 
-## 🚀 **How to Run**  
-1. Open **MySQL Workbench** or **SQL Server Management Studio**.  
-2. Create a new database named **`HIMS`**.  
-3. Run the provided SQL script (**`HIMS.sql`**).  
-4. Open the **EER Diagram** (**`HIMS_Model.mwb`**) for a visual overview.
-
----
 
 ## 📚 **Dataset / Input**  
 This project uses **sample hospital data** for demonstration purposes (patients, doctors, and appointments) to simulate a real-world hospital workflow.
@@ -66,4 +59,3 @@ This project uses **sample hospital data** for demonstration purposes (patients,
 ## 👩‍💻 **Author**  
 **Sunandha**  
 📍 *B.E. Information Technology | AIT Pune*  
-📧 [Your Email or GitHub Profile Link]
